@@ -1,0 +1,20 @@
+.top-images{
+    height: 390px;
+    width: 100%;
+}
+.navr span{
+    height: 45px;
+    width: 20%;
+    font-size: 24px;
+    padding: 50px;
+    margin: 50px;
+    /* margin-top: 20px; */
+}
+.navr{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.carousel-inner{
+    width: 450px;
+    height: 1000px;
+}
